@@ -14,7 +14,7 @@
 5. Learn to implement clustering and k-means using sklearn
 
 ## Slides
-@[gslides](1Vyl2E1oaEoaBE00HIVkkwqypR5Vfkz6WDOAdEr5d4z0)
+@[gslides](17m1fyCj93UfxnwVb8qsCouj8nkfJQnlQPsEsmAto1Xc)
 
 ## Post-Reading List
 1. ![clustering](http://scikit-learn.org/stable/modules/clustering.html)
